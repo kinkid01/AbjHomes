@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CBN Estate",
+    "price": "50,999",
+    "detail": "No.68 Billion Street, Maitama, Abuja",
+    "image": "./p4.png"
+  },
+  {
+    "name": "Golden City",
+    "price": "86,000",
+    "detail": "Michael Martins Street, Plot.87, Abuja",
+    "image": "./p5.png"
+  },
+  {
+    "name": "Sky View Estate",
+    "price": "48,500",
+    "detail": "No.11 Airport Road, Lugbe, Abuja",
+    "image": "./p6.png"
+  },
+  {
+    "name": "Heavens Gate",
+    "price": "90,789",
+    "detail": "NNPC Street Plot.30, Asokoro, Abuja",
+    "image": "./p1.png"
+  },
+  {
+    "name": "Palms View Estate",
+    "price": "50,000",
+    "detail": "Lekki Phase 1, Adeleke Street No.12, Lagos",
+    "image": "./p6.png"
+  },
+  {
+    "name": "Kings Garden",
+    "price": "100,000",
+    "detail": "Plot.22 Adams Crecent, Maitama, Abuja",
+    "image": "./p4.png"
+  }
+]
